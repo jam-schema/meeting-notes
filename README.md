@@ -5,8 +5,9 @@
 - First step is to list the information required for authors description
 - We will meet again in a month, everybody will know he is welcome to have a beverage, like for example a beer.
 
+![Here an overview of the plan, we will first work on a format allowing jatsxml export via pandoc (while keeping in mind it might be expanded, and grow from there.](figures/jams.png)
 
-Links and details
+## Links and details
 
 - https://jats4r.org/recommendations-list
 - https://schema.org/Person
