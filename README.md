@@ -1,3 +1,11 @@
+# Group decisions 2020-10-01
+
+- We will concentrate our efforts to get a backend format, not caring about the human writability of the format. (we worry about the countainer first,  we will look later to ways we could have to fill the countainer.
+- The next step is to compare our prototype based on jats4r with pandoc schema/requirements
+- We also need to actively look to bring diversity in the group. 
+
+
+
 # Group decisions 2020-09-03
 
 
