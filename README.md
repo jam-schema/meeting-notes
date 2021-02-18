@@ -1,3 +1,13 @@
+# Group decisions 2021-01-18
+
+
+- barcamp note: https://cryptpad.fr/pad/#/2/pad/edit/Xv5NMPdzST31pmit6tdgDm5K/
+    - make things interoperable and transportable
+    - make tools that one can build from.
+- no big issues with pandoc, just need works
+- goal is to get v1.0 published in 2 weeks ;)
+
+
 # Group decisions 2020-10-01
 
 - Priority is to get affiliation in pandoc accepted metadata
