@@ -1,3 +1,10 @@
+# Group decisions 2021-09-06
+
+- description of project and v1: looks ok, note that given names can be inside string-name in jats
+- We should have a validator (means use json)
+- prepare a larger example (more authors, more affiliations)
+- hopefully example could be push to pandoc to get a pdf
+
 # Group decisions 2021-01-18
 
 
