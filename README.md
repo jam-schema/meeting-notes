@@ -1,3 +1,16 @@
+# Group decisions 2022-02-07
+
+- We go for one extra type for groups, as it may be easier for the users and for the validation, we use the PID entry to add simple links (PID type is then URL)
+- For validation, we will produce a json version of the template,there are tools doing it automatically, but need example entries
+- Julien will update the yaml template
+- Axel and Frederick will look at validation
+- We will present our results at the next SingleSourcePublishing meeting
+- Once validation is set, we will look for human validataion, trying it out
+- Pandoc integration still need to be discussed (Albert was not there)
+- We may also write a blog post to describe JAMS.
+
+We also had nice discussion about groups: how to deal with groups evolving through time, how to best give credit and link using groups?
+
 # Group decisions 2021-09-06
 
 - description of project and v1: looks ok, note that given names can be inside string-name in jats
