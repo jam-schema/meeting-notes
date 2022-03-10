@@ -1,3 +1,11 @@
+# Group discussions 2022-03-10
+
+- pandoc: https://pandoc.org/jats : not complete compared to jams
+- validation: via API or direct javascript
+- write a blog post-like text in the discussion, to present the project.
+- talk to coko, organise a hackathon
+
+
 # Group decisions 2022-02-07
 
 - We go for one extra type for groups, as it may be easier for the users and for the validation, we use the PID entry to add simple links (PID type is then URL)
