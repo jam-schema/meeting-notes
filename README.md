@@ -1,3 +1,10 @@
+# Group discussions 2022-07-29
+
+- Albert to present advances for quarto and joss
+- new members presented themselves.
+- need a new communication channel, Julien will set a newsletter so anyone can write to everybody.
+
+
 # Group discussions 2022-03-10
 
 - pandoc: https://pandoc.org/jats : not complete compared to jams
